@@ -6,7 +6,7 @@
 /* @var $exception Exception */
 
 use yii\helpers\Html;
-
+var_dump($exception);
 $this->title = $name;
 ?>
 <div class="site-error">
